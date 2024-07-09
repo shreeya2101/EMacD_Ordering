@@ -1,0 +1,6 @@
+1. Aaloo Tikki Burger (Reg : Rs. 80 Large : Rs. 100)
+2. Double Cheeseburger (Reg : Rs. 80 Large : Rs. 100)
+3. Veggie Delight Burger (Reg : Rs. 80 Large : Rs. 100)
+4. Chicken Burger (Reg : Rs. 100 Large : Rs. 120)
+5. Double Egg Burger (Reg : Rs. 100 Large : Rs. 120)
+6. Fish Fry Burger (Reg : Rs. 100 Large : Rs. 120)

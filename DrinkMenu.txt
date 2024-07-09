@@ -1,0 +1,4 @@
+1. Coke (Reg : Rs. 50 Large : Rs. 70)
+2. Limca (Reg : Rs. 50 Large : Rs. 70)
+3. Fanta (Reg : Rs. 50 Large : Rs. 70)
+4. Cold Coffee (Reg : Rs. 50 Large : Rs. 70)

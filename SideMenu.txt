@@ -1,0 +1,6 @@
+1. Veggie Wrap (Reg : Rs. 70 Large : Rs. 90)
+2. Veg Puff (Reg : Rs. 70 Large : Rs. 90)
+3. Cheesy Fries (Reg : Rs. 70 Large : Rs. 90)
+4. Chicken Wrap (Reg : Rs. 90 Large : Rs. 110)
+5. Fish Fingers (Reg : Rs. 90 Large : Rs. 110)
+6. Chicken Kebab (Reg : Rs. 90 Large : Rs. 110)
